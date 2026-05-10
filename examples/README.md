@@ -12,13 +12,7 @@
   - 1 张四元综合分析图
   - 3 张化学势热图
 
-## V-Nb-S 三元体系
 
-- **数据来源**: 本地 VASP 计算结果
-- **运行命令**: `chemphase --local ./VNb3S6_calculations --elements V Nb S`
-- **输出内容**:
-  - 3 张二元相图
-  - 1 张三元相图
 
 ## 统一相数据库 (unified_phases/)
 
