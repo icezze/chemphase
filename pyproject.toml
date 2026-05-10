@@ -1,0 +1,64 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chemphase"
+version = "0.1.0"
+description = "相图与化学势热图统一生成器 — 一键生成二元/三元成分相图、化学势热图，支持 Materials Project API 和本地 VASP 数据"
+authors = [
+    {name = "Phase Diagram Generator Team"}
+]
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Intended Audience :: Science/Research",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Physics",
+    "Topic :: Scientific/Engineering :: Chemistry",
+]
+
+dependencies = [
+    "pymatgen>=2023.0.0",
+    "doped>=3.2.0",
+    "matplotlib>=3.5.0",
+    "numpy>=1.21.0",
+    "scipy>=1.7.0",
+    "plotly>=5.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov",
+    "ruff",
+]
+
+[project.scripts]
+chemphase = "chemphase.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/user/chemphase"
+Repository = "https://github.com/user/chemphase"
+Issues = "https://github.com/user/chemphase/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+exclude = ["tests*", "docs*"]
+
+[tool.setuptools.package-data]
+"chemphase" = ["py.typed"]
+
+[tool.ruff]
+line-length = 100
+lint.select = ["E", "F", "I", "N", "W", "UP", "B", "SIM"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
