@@ -44,9 +44,9 @@ dev = [
 chemphase = "chemphase.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/user/chemphase"
-Repository = "https://github.com/user/chemphase"
-Issues = "https://github.com/user/chemphase/issues"
+Homepage = "https://github.com/icezze/chemphase"
+Repository = "https://github.com/icezze/chemphase"
+Issues = "https://github.com/icezze/chemphase/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
