@@ -1,0 +1,12 @@
+{
+  "formula": "Cu64O",
+  "elements": [
+    "Cu",
+    "Ag",
+    "O"
+  ],
+  "eah": 0,
+  "is_stable": true,
+  "downloaded_at": "2026-05-05T23:48:15.158483",
+  "system": "Ag_Cu_O"
+}

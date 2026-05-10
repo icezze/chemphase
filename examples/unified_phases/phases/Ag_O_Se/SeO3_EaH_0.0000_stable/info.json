@@ -1,0 +1,12 @@
+{
+  "formula": "SeO3",
+  "elements": [
+    "Ag",
+    "O",
+    "Se"
+  ],
+  "eah": 0,
+  "is_stable": true,
+  "downloaded_at": "2026-05-05T23:48:20.194980",
+  "system": "Ag_O_Se"
+}

@@ -1,0 +1,983 @@
+{
+  "download_history": [],
+  "element_systems": {
+    "Ag_Cu": {
+      "elements": [
+        "Cu",
+        "Ag"
+      ],
+      "last_updated": "2026-05-05T23:48:05.937420",
+      "total_phases": 15
+    },
+    "Ag_Cu_O": {
+      "elements": [
+        "Cu",
+        "Ag",
+        "O"
+      ],
+      "last_updated": "2026-05-05T23:48:15.167554",
+      "total_phases": 100
+    },
+    "Ag_Cu_O_Se": {
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "last_updated": "2026-05-05T23:48:22.637884",
+      "total_phases": 180
+    },
+    "Ag_Cu_Se": {
+      "elements": [
+        "Cu",
+        "Ag",
+        "Se"
+      ],
+      "last_updated": "2026-05-05T23:48:16.610873",
+      "total_phases": 66
+    },
+    "Ag_O": {
+      "elements": [
+        "Ag",
+        "O"
+      ],
+      "last_updated": "2026-05-05T23:48:11.021419",
+      "total_phases": 45
+    },
+    "Ag_O_Se": {
+      "elements": [
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "last_updated": "2026-05-05T23:48:20.239335",
+      "total_phases": 81
+    },
+    "Ag_Se": {
+      "elements": [
+        "Ag",
+        "Se"
+      ],
+      "last_updated": "2026-05-05T23:48:12.620470",
+      "total_phases": 28
+    },
+    "Cu_O": {
+      "elements": [
+        "Cu",
+        "O"
+      ],
+      "last_updated": "2026-05-05T23:48:07.932754",
+      "total_phases": 68
+    },
+    "Cu_O_Se": {
+      "elements": [
+        "Cu",
+        "O",
+        "Se"
+      ],
+      "last_updated": "2026-05-05T23:48:18.119223",
+      "total_phases": 129
+    },
+    "Cu_Se": {
+      "elements": [
+        "Cu",
+        "Se"
+      ],
+      "last_updated": "2026-05-05T23:48:09.320466",
+      "total_phases": 45
+    },
+    "O_Se": {
+      "elements": [
+        "O",
+        "Se"
+      ],
+      "last_updated": "2026-05-05T23:48:13.743718",
+      "total_phases": 41
+    }
+  },
+  "phases": {
+    "Ag": {
+      "downloaded_at": "2026-05-05T23:48:22.514337",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Ag_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Ag_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Ag2O": {
+      "downloaded_at": "2026-05-05T23:48:22.565767",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Ag2O_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Ag2O_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Ag2O3": {
+      "downloaded_at": "2026-05-05T23:48:22.516214",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Ag2O3_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Ag2O3_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Ag2Se": {
+      "downloaded_at": "2026-05-05T23:48:22.489348",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Ag2Se_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Ag2Se_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Ag2SeO2": {
+      "downloaded_at": "2026-05-05T23:48:22.534488",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Ag2SeO2_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Ag2SeO2_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Ag2SeO3": {
+      "downloaded_at": "2026-05-05T23:48:22.571741",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Ag2SeO3_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Ag2SeO3_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Ag2SeO4": {
+      "downloaded_at": "2026-05-05T23:48:22.505837",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Ag2SeO4_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Ag2SeO4_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Ag3O": {
+      "downloaded_at": "2026-05-05T23:48:22.543771",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Ag3O_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Ag3O_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Ag3O4": {
+      "downloaded_at": "2026-05-05T23:48:22.613211",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Ag3O4_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Ag3O4_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Ag3Se": {
+      "downloaded_at": "2026-05-05T23:48:22.557313",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Ag3Se_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Ag3Se_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "AgO": {
+      "downloaded_at": "2026-05-05T23:48:22.495366",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "AgO_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/AgO_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "AgO2": {
+      "downloaded_at": "2026-05-05T23:48:22.598776",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "AgO2_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/AgO2_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "AgSe": {
+      "downloaded_at": "2026-05-05T23:48:22.496670",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "AgSe_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/AgSe_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "AgSe5": {
+      "downloaded_at": "2026-05-05T23:48:22.597398",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "AgSe5_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/AgSe5_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu": {
+      "downloaded_at": "2026-05-05T23:48:22.490406",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu(AgO)2": {
+      "downloaded_at": "2026-05-05T23:48:22.538912",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu(AgO)2_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu(AgO)2_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu13Se8": {
+      "downloaded_at": "2026-05-05T23:48:22.626899",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu13Se8_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu13Se8_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu17Se10": {
+      "downloaded_at": "2026-05-05T23:48:22.633692",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu17Se10_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu17Se10_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu19Se11": {
+      "downloaded_at": "2026-05-05T23:48:22.586904",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu19Se11_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu19Se11_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu25Se26": {
+      "downloaded_at": "2026-05-05T23:48:22.584328",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu25Se26_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu25Se26_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu27Se20": {
+      "downloaded_at": "2026-05-05T23:48:22.522987",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu27Se20_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu27Se20_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu29Se19": {
+      "downloaded_at": "2026-05-05T23:48:22.616308",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu29Se19_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu29Se19_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu2Ag(SeO5)2": {
+      "downloaded_at": "2026-05-05T23:48:22.628710",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu2Ag(SeO5)2_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu2Ag(SeO5)2_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu2Ag2O3": {
+      "downloaded_at": "2026-05-05T23:48:22.637649",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu2Ag2O3_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu2Ag2O3_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu2AgO4": {
+      "downloaded_at": "2026-05-05T23:48:22.561413",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu2AgO4_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu2AgO4_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu2O": {
+      "downloaded_at": "2026-05-05T23:48:22.542881",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu2O_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu2O_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu2O3": {
+      "downloaded_at": "2026-05-05T23:48:22.530359",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu2O3_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu2O3_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu2Se": {
+      "downloaded_at": "2026-05-05T23:48:22.499908",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu2Se_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu2Se_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu2SeO4": {
+      "downloaded_at": "2026-05-05T23:48:22.630864",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu2SeO4_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu2SeO4_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu3Ag": {
+      "downloaded_at": "2026-05-05T23:48:22.531878",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu3Ag_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu3Ag_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu3O2": {
+      "downloaded_at": "2026-05-05T23:48:22.611849",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu3O2_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu3O2_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu3O4": {
+      "downloaded_at": "2026-05-05T23:48:22.507430",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu3O4_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu3O4_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu3Se2": {
+      "downloaded_at": "2026-05-05T23:48:22.600136",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu3Se2_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu3Se2_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu3SeO8": {
+      "downloaded_at": "2026-05-05T23:48:22.560149",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu3SeO8_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu3SeO8_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu4O3": {
+      "downloaded_at": "2026-05-05T23:48:22.525691",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu4O3_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu4O3_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu4Se3": {
+      "downloaded_at": "2026-05-05T23:48:22.541838",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu4Se3_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu4Se3_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu4Se3O10": {
+      "downloaded_at": "2026-05-05T23:48:22.548745",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu4Se3O10_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu4Se3O10_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu5O7": {
+      "downloaded_at": "2026-05-05T23:48:22.594665",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu5O7_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu5O7_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu64O": {
+      "downloaded_at": "2026-05-05T23:48:22.610411",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu64O_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu64O_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu6O": {
+      "downloaded_at": "2026-05-05T23:48:22.546345",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu6O_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu6O_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu8O": {
+      "downloaded_at": "2026-05-05T23:48:22.501315",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu8O_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu8O_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu8O7": {
+      "downloaded_at": "2026-05-05T23:48:22.487593",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu8O7_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu8O7_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu9O13": {
+      "downloaded_at": "2026-05-05T23:48:22.575393",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu9O13_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu9O13_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu9Se5": {
+      "downloaded_at": "2026-05-05T23:48:22.493050",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu9Se5_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu9Se5_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Cu9Se8": {
+      "downloaded_at": "2026-05-05T23:48:22.502920",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Cu9Se8_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Cu9Se8_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "CuAg3": {
+      "downloaded_at": "2026-05-05T23:48:22.635849",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "CuAg3_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/CuAg3_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "CuAgO2": {
+      "downloaded_at": "2026-05-05T23:48:22.524254",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "CuAgO2_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/CuAgO2_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "CuAgSe": {
+      "downloaded_at": "2026-05-05T23:48:22.563022",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "CuAgSe_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/CuAgSe_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "CuO": {
+      "downloaded_at": "2026-05-05T23:48:22.485921",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "CuO_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/CuO_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "CuO2": {
+      "downloaded_at": "2026-05-05T23:48:22.504279",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "CuO2_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/CuO2_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "CuSe": {
+      "downloaded_at": "2026-05-05T23:48:22.518072",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "CuSe_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/CuSe_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "CuSe2": {
+      "downloaded_at": "2026-05-05T23:48:22.509149",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "CuSe2_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/CuSe2_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "CuSe2O5": {
+      "downloaded_at": "2026-05-05T23:48:22.511942",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "CuSe2O5_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/CuSe2O5_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "CuSeO3": {
+      "downloaded_at": "2026-05-05T23:48:22.540807",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "CuSeO3_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/CuSeO3_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "CuSeO4": {
+      "downloaded_at": "2026-05-05T23:48:22.590961",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "CuSeO4_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/CuSeO4_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "CuSeO5": {
+      "downloaded_at": "2026-05-05T23:48:22.469824",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "CuSeO5_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/CuSeO5_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "O2": {
+      "downloaded_at": "2026-05-05T23:48:22.494162",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "O2_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/O2_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Se": {
+      "downloaded_at": "2026-05-05T23:48:22.491381",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Se_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Se_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "Se2O5": {
+      "downloaded_at": "2026-05-05T23:48:22.552156",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "Se2O5_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/Se2O5_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "SeO2": {
+      "downloaded_at": "2026-05-05T23:48:22.545378",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "SeO2_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/SeO2_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "SeO3": {
+      "downloaded_at": "2026-05-05T23:48:22.520214",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "SeO3_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/SeO3_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "SeO4": {
+      "downloaded_at": "2026-05-05T23:48:22.601905",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "SeO4_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/SeO4_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    },
+    "SeO5": {
+      "downloaded_at": "2026-05-05T23:48:22.537637",
+      "eah": 0,
+      "elements": [
+        "Cu",
+        "Ag",
+        "O",
+        "Se"
+      ],
+      "folder": "SeO5_EaH_0.0000_stable",
+      "is_stable": true,
+      "path": "unified_phases/phases/Ag_Cu_O_Se/SeO5_EaH_0.0000_stable/POSCAR",
+      "system": "Ag_Cu_O_Se"
+    }
+  }
+}

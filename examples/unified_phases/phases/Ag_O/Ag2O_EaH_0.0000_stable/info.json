@@ -1,0 +1,11 @@
+{
+  "formula": "Ag2O",
+  "elements": [
+    "Ag",
+    "O"
+  ],
+  "eah": 0,
+  "is_stable": true,
+  "downloaded_at": "2026-05-05T23:48:11.012713",
+  "system": "Ag_O"
+}
